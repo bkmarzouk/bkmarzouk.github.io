@@ -1,0 +1,30 @@
+repos:
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.38.0
+    hooks:
+      - id: yamllint
+        files: \.(yaml|yml)$
+        args: [--strict, "-d", "{extends: relaxed, rules: {line-length: {max: 100}}}"]
+
+  - repo: https://github.com/tox-dev/tox-toml-fmt
+    rev: v1.3.0
+    hooks:
+      - id: tox-toml-fmt
+        files: \.toml$
+        args: ["--column-width", "100"]
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.9.6
+    hooks:
+      - id: ruff
+        args: [--fix]
+      - id: ruff-format
+
+  - repo: local
+    hooks:
+      - id: update-timeline
+        name: Update Timeline JSON
+        entry: uv run scripts/update_timeline.py
+        language: system
+        files: ^(docs/timeline\.json|docs/timeline/.*\.md|scripts/update_timeline\.py)$
+        pass_filenames: false
