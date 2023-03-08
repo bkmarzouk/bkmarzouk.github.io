@@ -1,0 +1,30 @@
+[
+  {
+    "content_id": "agreena",
+    "icon": "🌱",
+    "title": "Agreena",
+    "sub_title": "Mar 2024 – Present",
+    "content": "**Research Software Engineer**<br/><br/>I work on the technology behind Europe’s largest arable carbon project, helping measure how greener agricultural practices affect carbon emissions and removals — and turning those measurements into credible carbon credits.<br/><br/>My work spans much of the modelling pipeline: building and maintaining carbon models, reconciling heterogeneous data sources with model requirements, and preparing historical datasets using statistical imputation that meets market standards.<br/><br/>It’s a cross-disciplinary role where data, science, and engineering constantly overlap. I also build API services and internal tooling to support product teams when business needs shift."
+  },
+  {
+    "content_id": "icr",
+    "icon": "🧬",
+    "title": "Institute of Cancer Research",
+    "sub_title": "Oct 2022 – Mar 2024",
+    "content": "**Research Software Engineer**<br/><br/>I worked on data, software, and HPC supporting cancer research as part of a centralised computing team, building shared systems researchers could depend on and collaborating directly with labs on their projects.<br/><br/>I built pipelines that automated transfers from lab instruments to research servers, so datasets reached researchers faster and more reliably. I also developed a modular genome analysis framework that replaced ad-hoc scripts with tested, configurable components and introduced more statistically robust methods.<br/><br/>I also helped maintain the shared HPC software environment, troubleshoot parallel workloads, and set up a centralised deployment framework for internal apps that simplified releases and reduced operational overhead."
+  },
+  {
+    "content_id": "sussex-phd",
+    "icon": "🔭",
+    "title": "Astronomy Centre, University of Sussex",
+    "sub_title": "Sep 2018 – Sep 2022",
+    "content": "**Doctoral Researcher in Cosmology**<br/><br/>I did my PhD in cosmology, studying how models of the early universe leave signatures in observational data. My work focused on connecting theory to measurements, using statistics and simulation to test ideas about how the universe began.<br/><br/>I built simulation and sampling tools in Python and C++ for large Monte Carlo analyses, and developed data inference pipelines that ran on HPC clusters and processed hundreds of gigabytes of telescope and simulation data. This work fed into analyses of Planck satellite data and helped place tighter constraints on cosmological signals.<br/><br/>This is where I learned to work comfortably at the boundary of theory, data, and computation, often dealing with high-dimensional models with thousands of parameters where careful statistical thinking and efficient computation were essential. Alongside research, I TA’d undergraduate maths courses, which sharpened my ability to explain technical ideas clearly."
+  },
+  {
+    "content_id": "sussex-mphys",
+    "icon": "🎓",
+    "title": "University of Sussex",
+    "sub_title": "2014 – 2018",
+    "content": "**MPhys Theoretical Physics**<br/><br/>I completed an integrated master’s degree in theoretical physics.<br/><br/>During my studies, I was awarded a Junior Research Associate position that funded a summer astronomy project and gave me early experience building numerical software in a research setting. That experience largely motivated my subsequent PhD."
+  }
+]

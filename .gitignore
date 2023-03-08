@@ -1,0 +1,5 @@
+.venv
+site/
+.uv_cache/
+cv.pdf
+dist/

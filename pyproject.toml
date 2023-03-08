@@ -1,0 +1,14 @@
+[project]
+name = "bkmarzouk-github-io"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+  "mkdocs>=1.6.0",
+  "mkdocs-material>=9.0.0",
+  "mkdocs-git-revision-date-localized-plugin>=1.2.0",
+  "lxml>=5.0.0",
+  "neoteroi-mkdocs>=1.2.0",
+  "ruff>=0.9.6",
+]
