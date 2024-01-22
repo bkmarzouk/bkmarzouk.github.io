@@ -1,0 +1,19 @@
+site_name: Kareem Marzouk
+nav:
+  - Home: 'index.md'
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: custom
+  font:
+    texr: Roboto Mono
+    code: Roboto Mono
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/bkmarzouk/
+    - icon: fontawesome/brands/github
+      link: https://www.github.com/bkmarzouk/
