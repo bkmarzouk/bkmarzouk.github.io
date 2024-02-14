@@ -22,3 +22,6 @@ extra:
       link: https://www.linkedin.com/in/bkmarzouk/
     - icon: fontawesome/brands/github
       link: https://www.github.com/bkmarzouk/
+plugins:
+  - search
+  - git-revision-date-localized
