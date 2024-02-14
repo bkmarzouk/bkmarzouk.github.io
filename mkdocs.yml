@@ -1,6 +1,11 @@
-site_name: Kareem Marzouk
+site_name: Cosmologist To Technologist
 nav:
-  - Home: 'index.md'
+  - Home: index.md
+  # - cosmology.md
+  # - Computing:
+  #     - docker.md
+  #     - python.md
+  #     - r.md
 theme:
   name: material
   palette:
