@@ -1,1 +1,0 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":"<p>My name is Kareem, and I'm a research software engineer \ud83d\udd2d\ud83e\uddec\ud83c\udf31</p>"},{"location":"another/","title":"Another","text":"<p>My name is Kareem, and I'm a research software engineer \ud83d\udd2d\ud83e\uddec\ud83c\udf31</p>"}]}

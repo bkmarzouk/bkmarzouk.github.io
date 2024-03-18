@@ -1,5 +1,5 @@
 ---
-title: Cosmologist To Technologist
+title: Kareem Marzouk
 hide:
   # - navigation
   - toc
@@ -25,7 +25,7 @@ My name is Kareem, and I'm a research software engineer.
 </figure> -->
 
 I decoupled from theoretical physics and moved into research computing after completing my Ph.D in 2022. Since then, 
-I have been working at the Instite of Cancer Research, London, developing scientific software, tools and applications
+I have been working at the Institute of Cancer Research, London, developing scientific software, tools and applications
 to support the research efforts of the organization.
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ to support the research efforts of the organization.
 
 I often find myself combing through the depths of stackoverflow and assimilating information from a variety of 
 blog posts across the internet. The intent of this site is to share some things from my own work that I think might be 
-useful to others; and to dump various other bits of information that I think might be interesting from time to time! Let's see how it goes.
+useful to others; and to dump various other bits of information that I think might be interesting from time to time... but let's see how that goes!
 
 <p style="text-align: center;">
 🌱
