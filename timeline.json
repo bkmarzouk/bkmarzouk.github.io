@@ -1,0 +1,30 @@
+[
+  {
+    "content_id": "agreena",
+    "icon": "🌱",
+    "title": "Agreena",
+    "sub_title": "Mar 2024 – Present",
+    "content": "**Research Software Engineer**<br/><br/>I work on the technology behind Europe’s largest arable carbon project, assessing how changes in agricultural practices impact carbon emissions and removals.<br/><br/>My role involves a range of modelling and software challenges, such as developing statistical methods to handle missing data in historical farm activities (a project that unblocked a key onboarding pathway for farmers).<br/><br/>I've also worked on the infrastructure that supports our carbon models, including standardising data layers and building tools that make analyses reproducible across datasets and experiments."
+  },
+  {
+    "content_id": "icr",
+    "icon": "🧬",
+    "title": "Institute of Cancer Research",
+    "sub_title": "Oct 2022 – Mar 2024",
+    "content": "**Research Software Engineer**<br/><br/>I worked on compute and data infrastructure supporting research facilities, as well as directly with labs on scientific software development.<br/><br/>On the infrastructure side, I focused on automating data transfers from laboratory instruments to research servers, managing HPC environments, and deploying frameworks for hosting research applications.<br/><br/>My primary software project involved genomic analysis, where I reimplemented legacy scripts as a tested and configurable Python pipeline, adding new methods for assessing uncertainty via Kernel Density Estimation (KDE)."
+  },
+  {
+    "content_id": "sussex-phd",
+    "icon": "🔭",
+    "title": "Astronomy Centre, University of Sussex",
+    "sub_title": "Sep 2018 – Sep 2022",
+    "content": "**Doctoral Researcher in Cosmology**<br/><br/>I did my PhD in cosmology, studying how models of the early universe leave signatures in observational data. My work focused on connecting theory to measurements, using statistics and simulation to test ideas about how the universe began.<br/><br/>One project involved developing general numerical methods to predict observable quantities for early-universe expansion models. This was built in Python, with performance-critical components transpiled into C++, and resulted in a paper exploring \"D3-Brane inflation\" across a parameter space of thousands of variables.<br/><br/>A second project focused on the \"theory of observations.\" By positing the existence of higher-order statistical perturbations in the early universe, I developed methods to reconstruct the underlying patterns modulating the light reaching us from the distant past. This work led to a paper and a ~70% improvement in the constraint on this signal."
+  },
+  {
+    "content_id": "sussex-mphys",
+    "icon": "🎓",
+    "title": "University of Sussex",
+    "sub_title": "2014 – 2018",
+    "content": "**MPhys Theoretical Physics**"
+  }
+]
